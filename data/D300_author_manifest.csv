@@ -1,0 +1,301 @@
+﻿d_id,author,class,status
+D001,Margaret Atwood,D,predictive_manifest
+D002,Kazuo Ishiguro,D,predictive_manifest
+D003,Toni Morrison,D,predictive_manifest
+D004,Cormac McCarthy,D,predictive_manifest
+D005,Salman Rushdie,D,predictive_manifest
+D006,Don DeLillo,D,predictive_manifest
+D007,Thomas Pynchon,D,predictive_manifest
+D008,Ursula K. Le Guin,D,predictive_manifest
+D009,Octavia E. Butler,D,predictive_manifest
+D010,Philip K. Dick,D,predictive_manifest
+D011,Kurt Vonnegut,D,predictive_manifest
+D012,J. G. Ballard,D,predictive_manifest
+D013,Stanisław Lem,D,predictive_manifest
+D014,Isaac Asimov,D,predictive_manifest
+D015,Arthur C. Clarke,D,predictive_manifest
+D016,Robert A. Heinlein,D,predictive_manifest
+D017,Frank Herbert,D,predictive_manifest
+D018,William Gibson,D,predictive_manifest
+D019,Neal Stephenson,D,predictive_manifest
+D020,China Miéville,D,predictive_manifest
+D021,Iain M. Banks,D,predictive_manifest
+D022,Douglas Adams,D,predictive_manifest
+D023,Terry Pratchett,D,predictive_manifest
+D024,Neil Gaiman,D,predictive_manifest
+D025,Stephen King,D,predictive_manifest
+D026,Shirley Jackson,D,predictive_manifest
+D027,Clive Barker,D,predictive_manifest
+D028,Anne Rice,D,predictive_manifest
+D029,Peter Straub,D,predictive_manifest
+D030,Thomas Ligotti,D,predictive_manifest
+D031,Ramsey Campbell,D,predictive_manifest
+D032,Dean Koontz,D,predictive_manifest
+D033,Joe Hill,D,predictive_manifest
+D034,C. S. Lewis,D,predictive_manifest
+D035,J. R. R. Tolkien,D,predictive_manifest
+D036,Mervyn Peake,D,predictive_manifest
+D037,Michael Moorcock,D,predictive_manifest
+D038,Gene Wolfe,D,predictive_manifest
+D039,Roger Zelazny,D,predictive_manifest
+D040,Fritz Leiber,D,predictive_manifest
+D041,Robert E. Howard,D,predictive_manifest
+D042,Ursula Vernon,D,predictive_manifest
+D043,Susanna Clarke,D,predictive_manifest
+D044,Robin Hobb,D,predictive_manifest
+D045,George R. R. Martin,D,predictive_manifest
+D046,Terry Brooks,D,predictive_manifest
+D047,Diana Wynne Jones,D,predictive_manifest
+D048,Madeleine L'Engle,D,predictive_manifest
+D049,Roald Dahl,D,predictive_manifest
+D050,Dr. Seuss,D,predictive_manifest
+D051,Maurice Sendak,D,predictive_manifest
+D052,E. B. White,D,predictive_manifest
+D053,A. A. Milne,D,predictive_manifest
+D054,Beatrix Potter,D,predictive_manifest
+D055,Kenneth Grahame,D,predictive_manifest
+D056,L. Frank Baum,D,predictive_manifest
+D057,Lewis Carroll,D,predictive_manifest
+D058,J. M. Barrie,D,predictive_manifest
+D059,Frances Hodgson Burnett,D,predictive_manifest
+D060,Edith Nesbit,D,predictive_manifest
+D061,Rudyard Kipling,D,predictive_manifest
+D062,Arthur Conan Doyle,D,predictive_manifest
+D063,Agatha Christie,D,predictive_manifest
+D064,Dorothy L. Sayers,D,predictive_manifest
+D065,Ngaio Marsh,D,predictive_manifest
+D066,Margery Allingham,D,predictive_manifest
+D067,Patricia Highsmith,D,predictive_manifest
+D068,Ross Macdonald,D,predictive_manifest
+D069,Mickey Spillane,D,predictive_manifest
+D070,Elmore Leonard,D,predictive_manifest
+D071,James M. Cain,D,predictive_manifest
+D072,Jim Thompson,D,predictive_manifest
+D073,Chester Himes,D,predictive_manifest
+D074,Walter Mosley,D,predictive_manifest
+D075,James Ellroy,D,predictive_manifest
+D076,Patricia Cornwell,D,predictive_manifest
+D077,Ruth Rendell,D,predictive_manifest
+D078,P. D. James,D,predictive_manifest
+D079,John le Carré,D,predictive_manifest
+D080,Ian Fleming,D,predictive_manifest
+D081,Len Deighton,D,predictive_manifest
+D082,Eric Ambler,D,predictive_manifest
+D083,Graham Swift,D,predictive_manifest
+D084,Martin Amis,D,predictive_manifest
+D085,Kingsley Amis,D,predictive_manifest
+D086,Julian Barnes,D,predictive_manifest
+D087,Ian McEwan,D,predictive_manifest
+D088,Zadie Smith,D,predictive_manifest
+D089,Jeanette Winterson,D,predictive_manifest
+D090,Hilary Mantel,D,predictive_manifest
+D091,A. S. Byatt,D,predictive_manifest
+D092,Muriel Spark,D,predictive_manifest
+D093,Iris Murdoch,D,predictive_manifest
+D094,Doris Lessing,D,predictive_manifest
+D095,Angela Carter,D,predictive_manifest
+D096,Penelope Fitzgerald,D,predictive_manifest
+D097,Barbara Pym,D,predictive_manifest
+D098,Elizabeth Bowen,D,predictive_manifest
+D099,Elizabeth Taylor,D,predictive_manifest
+D100,Rose Macaulay,D,predictive_manifest
+D101,Rebecca West,D,predictive_manifest
+D102,Jean Rhys,D,predictive_manifest
+D103,Katherine Mansfield,D,predictive_manifest
+D104,E. M. Forster,D,predictive_manifest
+D105,Joseph Conrad,D,predictive_manifest
+D106,Ford Madox Ford,D,predictive_manifest
+D107,W. Somerset Maugham,D,predictive_manifest
+D108,H. G. Wells,D,predictive_manifest
+D109,G. K. Chesterton,D,predictive_manifest
+D110,George Gissing,D,predictive_manifest
+D111,Thomas Hardy,D,predictive_manifest
+D112,Anthony Trollope,D,predictive_manifest
+D113,Wilkie Collins,D,predictive_manifest
+D114,George Eliot,D,predictive_manifest
+D115,Charles Dickens,D,predictive_manifest
+D116,William Makepeace Thackeray,D,predictive_manifest
+D117,Jane Austen,D,predictive_manifest
+D118,Charlotte Brontë,D,predictive_manifest
+D119,Emily Brontë,D,predictive_manifest
+D120,Anne Brontë,D,predictive_manifest
+D121,Mary Shelley,D,predictive_manifest
+D122,Bram Stoker,D,predictive_manifest
+D123,Oscar Wilde,D,predictive_manifest
+D124,Robert Louis Stevenson,D,predictive_manifest
+D125,Joseph Sheridan Le Fanu,D,predictive_manifest
+D126,Saki,D,predictive_manifest
+D127,Jerome K. Jerome,D,predictive_manifest
+D128,Max Beerbohm,D,predictive_manifest
+D129,George Bernard Shaw,D,predictive_manifest
+D130,Noël Coward,D,predictive_manifest
+D131,J. D. Salinger,D,predictive_manifest
+D132,John Updike,D,predictive_manifest
+D133,John Cheever,D,predictive_manifest
+D134,Saul Bellow,D,predictive_manifest
+D135,Philip Roth,D,predictive_manifest
+D136,Bernard Malamud,D,predictive_manifest
+D137,Norman Mailer,D,predictive_manifest
+D138,Gore Vidal,D,predictive_manifest
+D139,Truman Capote,D,predictive_manifest
+D140,Joan Didion,D,predictive_manifest
+D141,Susan Sontag,D,predictive_manifest
+D142,Tom Wolfe,D,predictive_manifest
+D143,Hunter S. Thompson,D,predictive_manifest
+D144,David Foster Wallace,D,predictive_manifest
+D145,Jonathan Franzen,D,predictive_manifest
+D146,Jennifer Egan,D,predictive_manifest
+D147,George Saunders,D,predictive_manifest
+D148,Lydia Davis,D,predictive_manifest
+D149,Lorrie Moore,D,predictive_manifest
+D150,Joy Williams,D,predictive_manifest
+D151,Alice Munro,D,predictive_manifest
+D152,Mavis Gallant,D,predictive_manifest
+D153,Margaret Laurence,D,predictive_manifest
+D154,Carol Shields,D,predictive_manifest
+D155,Anne Tyler,D,predictive_manifest
+D156,Marilynne Robinson,D,predictive_manifest
+D157,Louise Erdrich,D,predictive_manifest
+D158,Barbara Kingsolver,D,predictive_manifest
+D159,Annie Proulx,D,predictive_manifest
+D160,Richard Ford,D,predictive_manifest
+D161,Tobias Wolff,D,predictive_manifest
+D162,Raymond Carver,D,predictive_manifest
+D163,Denis Johnson,D,predictive_manifest
+D164,Charles Bukowski,D,predictive_manifest
+D165,John Fante,D,predictive_manifest
+D166,Hubert Selby Jr.,D,predictive_manifest
+D167,Paul Auster,D,predictive_manifest
+D168,Siri Hustvedt,D,predictive_manifest
+D169,Jonathan Lethem,D,predictive_manifest
+D170,Michael Chabon,D,predictive_manifest
+D171,Jeffrey Eugenides,D,predictive_manifest
+D172,Donna Tartt,D,predictive_manifest
+D173,Bret Easton Ellis,D,predictive_manifest
+D174,Chuck Palahniuk,D,predictive_manifest
+D175,Dave Eggers,D,predictive_manifest
+D176,Jonathan Safran Foer,D,predictive_manifest
+D177,Nicole Krauss,D,predictive_manifest
+D178,Lauren Groff,D,predictive_manifest
+D179,Rachel Cusk,D,predictive_manifest
+D180,Deborah Levy,D,predictive_manifest
+D181,Ali Smith,D,predictive_manifest
+D182,Sarah Waters,D,predictive_manifest
+D183,Colm Tóibín,D,predictive_manifest
+D184,Roddy Doyle,D,predictive_manifest
+D185,Sebastian Barry,D,predictive_manifest
+D186,John Banville,D,predictive_manifest
+D187,Anne Enright,D,predictive_manifest
+D188,Edna O'Brien,D,predictive_manifest
+D189,Seamus Deane,D,predictive_manifest
+D190,Flann O'Brien,D,predictive_manifest
+D191,Brendan Behan,D,predictive_manifest
+D192,Samuel R. Delany,D,predictive_manifest
+D193,N. K. Jemisin,D,predictive_manifest
+D194,Ted Chiang,D,predictive_manifest
+D195,Ken Liu,D,predictive_manifest
+D196,Liu Cixin,D,predictive_manifest
+D197,Becky Chambers,D,predictive_manifest
+D198,Ann Leckie,D,predictive_manifest
+D199,Martha Wells,D,predictive_manifest
+D200,Kim Stanley Robinson,D,predictive_manifest
+D201,Connie Willis,D,predictive_manifest
+D202,Lois McMaster Bujold,D,predictive_manifest
+D203,C. J. Cherryh,D,predictive_manifest
+D204,James Tiptree Jr.,D,predictive_manifest
+D205,Joanna Russ,D,predictive_manifest
+D206,Vonda N. McIntyre,D,predictive_manifest
+D207,Harlan Ellison,D,predictive_manifest
+D208,Theodore Sturgeon,D,predictive_manifest
+D209,Alfred Bester,D,predictive_manifest
+D210,Cordwainer Smith,D,predictive_manifest
+D211,R. A. Lafferty,D,predictive_manifest
+D212,Jack Vance,D,predictive_manifest
+D213,Poul Anderson,D,predictive_manifest
+D214,Frederik Pohl,D,predictive_manifest
+D215,Philip José Farmer,D,predictive_manifest
+D216,John Brunner,D,predictive_manifest
+D217,Brian Aldiss,D,predictive_manifest
+D218,Michael Crichton,D,predictive_manifest
+D219,William S. Burroughs,D,predictive_manifest
+D220,Jack London,D,predictive_manifest
+D221,John Dos Passos,D,predictive_manifest
+D222,Ralph Ellison,D,predictive_manifest
+D223,James Baldwin,D,predictive_manifest
+D224,Richard Wright,D,predictive_manifest
+D225,Zora Neale Hurston,D,predictive_manifest
+D226,Nella Larsen,D,predictive_manifest
+D227,Jean Toomer,D,predictive_manifest
+D228,Langston Hughes,D,predictive_manifest
+D229,Maya Angelou,D,predictive_manifest
+D230,Alice Walker,D,predictive_manifest
+D231,Jamaica Kincaid,D,predictive_manifest
+D232,Toni Cade Bambara,D,predictive_manifest
+D233,Gayl Jones,D,predictive_manifest
+D234,Jesmyn Ward,D,predictive_manifest
+D235,Percival Everett,D,predictive_manifest
+D236,Colson Whitehead,D,predictive_manifest
+D237,Ta-Nehisi Coates,D,predictive_manifest
+D238,Paul Beatty,D,predictive_manifest
+D239,Kiese Laymon,D,predictive_manifest
+D240,Chimamanda Ngozi Adichie,D,predictive_manifest
+D241,Chinua Achebe,D,predictive_manifest
+D242,Wole Soyinka,D,predictive_manifest
+D243,Ngũgĩ wa Thiong'o,D,predictive_manifest
+D244,Ben Okri,D,predictive_manifest
+D245,J. M. Coetzee,D,predictive_manifest
+D246,Nadine Gordimer,D,predictive_manifest
+D247,Alan Paton,D,predictive_manifest
+D248,V. S. Naipaul,D,predictive_manifest
+D249,Sam Selvon,D,predictive_manifest
+D250,Caryl Phillips,D,predictive_manifest
+D251,Arundhati Roy,D,predictive_manifest
+D252,Amitav Ghosh,D,predictive_manifest
+D253,Vikram Seth,D,predictive_manifest
+D254,Rohinton Mistry,D,predictive_manifest
+D255,Jhumpa Lahiri,D,predictive_manifest
+D256,Kiran Desai,D,predictive_manifest
+D257,Aravind Adiga,D,predictive_manifest
+D258,Mohsin Hamid,D,predictive_manifest
+D259,Hanif Kureishi,D,predictive_manifest
+D260,Yasunari Kawabata,D,predictive_manifest
+D261,Yukio Mishima,D,predictive_manifest
+D262,Kenzaburō Ōe,D,predictive_manifest
+D263,Haruki Murakami,D,predictive_manifest
+D264,Banana Yoshimoto,D,predictive_manifest
+D265,Yōko Ogawa,D,predictive_manifest
+D266,Sayaka Murata,D,predictive_manifest
+D267,Kobo Abe,D,predictive_manifest
+D268,Natsume Sōseki,D,predictive_manifest
+D269,Ryūnosuke Akutagawa,D,predictive_manifest
+D270,Jun'ichirō Tanizaki,D,predictive_manifest
+D271,Osamu Dazai,D,predictive_manifest
+D272,Mieko Kawakami,D,predictive_manifest
+D273,Gabriel García Márquez,D,predictive_manifest
+D274,Jorge Amado,D,predictive_manifest
+D275,Mario Vargas Llosa,D,predictive_manifest
+D276,Julio Cortázar,D,predictive_manifest
+D277,Isabel Allende,D,predictive_manifest
+D278,Roberto Bolaño,D,predictive_manifest
+D279,Clarice Lispector,D,predictive_manifest
+D280,Juan Rulfo,D,predictive_manifest
+D281,Carlos Fuentes,D,predictive_manifest
+D282,José Saramago,D,predictive_manifest
+D283,Italo Calvino,D,predictive_manifest
+D284,Umberto Eco,D,predictive_manifest
+D285,Elena Ferrante,D,predictive_manifest
+D286,Primo Levi,D,predictive_manifest
+D287,Natalia Ginzburg,D,predictive_manifest
+D288,Sally Rooney,D,predictive_manifest
+D289,Olga Tokarczuk,D,predictive_manifest
+D290,Annie Ernaux,D,predictive_manifest
+D291,Viet Thanh Nguyen,D,predictive_manifest
+D292,Yaa Gyasi,D,predictive_manifest
+D293,Min Jin Lee,D,predictive_manifest
+D294,Ottessa Moshfegh,D,predictive_manifest
+D295,Tommy Orange,D,predictive_manifest
+D296,Rachel Kushner,D,predictive_manifest
+D297,Claire Keegan,D,predictive_manifest
+D298,Abdulrazak Gurnah,D,predictive_manifest
+D299,Hernan Diaz,D,predictive_manifest
+D300,Ocean Vuong,D,predictive_manifest
