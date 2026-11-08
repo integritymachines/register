@@ -1,0 +1,141 @@
+1. KERNEL
+
+OBJECTIVE: Establish the model and its principal results in canonical, compressed form.
+
+INPUT: Model specifications, mathematical notes, derivations, and research findings.
+
+OUTPUT: Kernel, approximately half a page, predominantly mathematics (~95%).
+
+STRUCTURE:
+- One hierarchical level by default.
+- Retain supplied section headings and their order.
+- Bullet points identify principal claims, assumptions, results, and qualifications.
+
+FORMAT:
+
+FLOW: State the governing claims and establish their formal support with minimal exposition. Move directly between logically dependent results.
+
+REGISTER:
+- STE100-like clarity, precision, and terminological consistency.
+- Harary: mathematical economy and structural simplicity.
+- Extremely compressed, predominantly symbolic and declarative.
+- Short sentences and minimal paragraphs, with little rhythmic variation.
+- Impersonal, categorical where proven, qualified where conditional.
+
+AVOID: terse titles, no wordy subtitles (!!!), alterations to supplied titles, throat-clearing, semicolons, em dashes, rhetorical questions, manufactured contrasts, promotional language, explanatory padding, boilerplate conclusions.
+
+REPORTS:
+- Narrative Integrity: structural and mathematical fidelity.
+- Factchecker: external facts and references.
+- Claims Checker: proof validity, assumptions, and scope.
+
+
+2. REPORT
+
+OBJECTIVE: Expand the kernel into a complete, technically inspectable treatment without changing its scientific message.
+
+INPUT: Kernel and supporting technical materials.
+
+OUTPUT: Technical report, approximately 5 pages, roughly 50% mathematics and 50% prose.
+
+STRUCTURE:
+- One hierarchical level by default.
+- Inherit section headings and their order from the kernel.
+- Expand supplied bullet points into claims, derivations, interpretations, and qualifications.
+
+FORMAT:
+
+FLOW: Develop each section from its governing result through mathematical substantiation to interpretation. Maintain continuity across sections without redundant summaries.
+
+REGISTER:
+- STE100-like clarity with disciplined scientific prose.
+- Simon: analytical economy and conceptual decomposition.
+- Harary: mathematical precision and economical expression.
+- Hutchins: concrete mechanisms and operational explanations.
+- Short-to-medium sentences with moderate variation.
+- Short, relatively uniform paragraphs.
+- Predominantly linear syntax, limited hypotaxis, restrained tone.
+
+AVOID: terse titles, no wordy subtitles (!!!), alterations to supplied titles, throat-clearing, semicolons, em dashes, anaphora, artificial antithesis, imaginary objections, empty intensifiers, mechanical transitions, promotional language, repetitive recaps, boilerplate conclusions.
+
+REPORTS:
+- Narrative Integrity: source fidelity, structure, notation, continuity.
+- Factchecker: external facts and references.
+- Claims Checker: derivations, assumptions, scientific support, scope.
+
+
+3. PAPER
+
+OBJECTIVE: Communicate the scientific contribution through a clear conceptual argument supported by rigorous technical treatment.
+
+INPUT: Technical report(s), kernel, relevant literature, and paper scaffolding.
+
+OUTPUT: Scientific paper, approximately 15 pages.
+
+STRUCTURE:
+- One or two hierarchical levels.
+- Follow the supplied scaffolding; construct it first if missing.
+- Provide section headers and bullet points specifying claims, support, and argumentative dependencies.
+- Preserve the headline contribution and its supporting architecture.
+
+FORMAT:
+
+FLOW: The abstract presents the headline claims and shape of the support. The introduction establishes context, novelty, and relevance. Develop the conceptual argument before entering the technical treatment, typically around pages 3–5. Let formal results substantiate and refine the preceding exposition.
+
+REGISTER:
+- Established scientific voice with modest personal inflection.
+- STE100-like terminological consistency and conceptual clarity.
+- Simon: analytical economy, decomposition, systems reasoning.
+- Harary: mathematical precision, structural simplicity.
+- Alexander: generative patterns and relationships between parts and wholes.
+- Hutchins: situated reasoning and concrete mechanisms.
+- Medium-length sentences, substantial variation, moderately hypotactic and periodic.
+- Medium-length paragraphs with deliberate rhythmic variation.
+- Conceptually rich, explicit, authoritative but qualified.
+- Restrained wit, occasional parentheticals, recognizable authorial voice.
+
+AVOID: terse titles, no wordy subtitles (!!!), alterations to supplied titles, throat-clearing, semicolons, em dashes, anaphora, fake intimacy, artificial contrasts, counted symmetry, imaginary objections, tutorial headings, empty intensifiers, stock transitions, promotional language, unnecessary recaps, boilerplate conclusions.
+
+REPORTS:
+- Narrative Integrity: fidelity to the scientific contribution, structural continuity, notation, internal consistency.
+- Factchecker: literature, external evidence, references.
+- Claims Checker: validity, novelty, evidentiary support, scope.
+
+
+4. BOOK
+
+OBJECTIVE: Integrate one or more scientific contributions into a coherent, sustained intellectual narrative.
+
+INPUT: Paper(s), supporting reports and kernels, and book guideline.
+
+OUTPUT: Book, approximately 300 pages unless otherwise specified.
+
+STRUCTURE:
+- Two to four hierarchical levels.
+- Follow the supplied book guideline; construct it first if missing.
+- Specify parts, chapters, sections, and supporting bullet points.
+- Preserve the scientific contributions while developing their conceptual connections.
+
+FORMAT:
+
+FLOW: Develop a sustained intellectual progression across chapters. Introduce concepts where they become necessary, revisit them when new relationships emerge, and progressively build toward synthesis. Integrate technical results into the narrative without reproducing entire papers.
+
+REGISTER:
+- Scientific voice with stronger personal inflection.
+- Simon: analytical decomposition and systems reasoning.
+- Harary: precision and structural economy.
+- Alexander: patterns, connections, generative explanations.
+- Hutchins: situated reasoning, concrete mechanisms.
+- Explicit, interdisciplinary, conceptually adventurous.
+- Medium-to-long sentences with high variability and occasional abrupt compression.
+- Medium-to-long paragraphs with substantial rhythmic variation.
+- Varied, hypotactic, periodic, occasionally parenthetical syntax.
+- Confident but qualified; intellectually serious, sometimes playful or irreverent.
+- Figurative language when it clarifies mechanisms or relationships.
+
+AVOID: terse titles, no wordy subtitles (!!!), alterations to supplied titles, throat-clearing, semicolons, em dashes, mechanical anaphora, fake intimacy, artificial contrasts, counted symmetry, manufactured lessons, imaginary objections, tour-guide transitions, promotional language, repetitive chapter previews, recap inflation, boilerplate conclusions.
+
+REPORTS:
+- Narrative Integrity: scientific fidelity, cross-chapter continuity, definitions, notation, structural conformance.
+- Factchecker: external facts, historical context, citations.
+- Claims Checker: scientific support, synthesis claims, generalizations, scope.
