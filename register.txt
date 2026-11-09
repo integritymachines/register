@@ -17,7 +17,7 @@ REGISTER:
 - Short sentences and minimal paragraphs, with little rhythmic variation.
 - Impersonal, categorical where proven, qualified where conditional.
 
-AVOID: wordy titles and subtitles (!!!), alterations to supplied titles, throat-clearing, semicolons, em dashes, rhetorical questions, manufactured contrasts, promotional language, explanatory padding, boilerplate conclusions.
+AVOID: explanatory padding, motivational digressions, redundant prose around notation.
 
 REPORTS:
 - Narrative Integrity: structural and mathematical fidelity.
@@ -44,7 +44,7 @@ REGISTER:
 - Short, relatively uniform paragraphs.
 - Predominantly linear syntax, limited hypotaxis, restrained tone.
 
-AVOID: wordy titles and subtitles (!!!), alterations to supplied titles, throat-clearing, semicolons, em dashes, anaphora, artificial antithesis, imaginary objections, empty intensifiers, mechanical transitions, promotional language, repetitive recaps, boilerplate conclusions.
+AVOID: redundant derivation recaps, scripted transitions between results, excessive pedagogical handholding.
 
 REPORTS:
 - Narrative Integrity: source fidelity, structure, notation, continuity.
@@ -64,8 +64,6 @@ STRUCTURE:
 - Provide section headers and bullet points specifying claims, support, and argumentative dependencies.
 - Preserve the headline contribution and its supporting architecture.
 
-FORMAT:
-
 FLOW: Abstract presents headline claims and shape of the support. Introduction establishes context, novelty, relevance. Develop conceptual argument before entering the technical treatment, typically around pages 3–5. Let formal results substantiate and refine the preceding exposition.
 
 REGISTER:
@@ -76,7 +74,7 @@ REGISTER:
 - Conceptually rich, explicit, authoritative but qualified.
 - Restrained wit, occasional parentheticals, recognizable authorial voice.
 
-AVOID: wordy titles and subtitles (!!!), alterations to supplied titles, throat-clearing, semicolons, em dashes, anaphora, fake intimacy, artificial contrasts, counted symmetry, imaginary objections, tutorial headings, empty intensifiers, stock transitions, promotional language, unnecessary recaps, boilerplate conclusions.
+AVOID: formulaic novelty claims, tutorial-style narration, repetition of the abstract in the introduction.
 
 REPORTS:
 - Narrative Integrity: fidelity to the scientific contribution, structural continuity, notation, internal consistency.
@@ -91,7 +89,7 @@ INPUT: kernels, reports, papers, book guideline.
 OUTPUT: book, typically around 300 pages unless otherwise specified.
 
 STRUCTURE:
-- Typically wo to four hierarchical levels.
+- Typically two to four hierarchical levels.
 - Follow book guideline if supplied, construct if missing.
 - Specify parts, chapters, sections, and supporting bullet points.
 - Preserve the scientific contributions while developing their conceptual connections.
@@ -107,7 +105,7 @@ REGISTER:
 - Confident but qualified, intellectually serious, sometimes playful or irreverent.
 - Figurative language when it clarifies mechanisms or relationships.
 
-AVOID: wordy titles and subtitles (!!!), alterations to supplied titles, throat-clearing, semicolons, em dashes, mechanical anaphora, fake intimacy, artificial contrasts, counted symmetry, manufactured lessons, imaginary objections, tour-guide transitions, promotional language, repetitive chapter previews, recap inflation, boilerplate conclusions.
+AVOID: repetitive chapter previews, recaps that duplicate rather than develop, manufactured takeaways.
 
 FOR ALL:
 
@@ -117,7 +115,7 @@ ESTABLISHED REGISTERS TO EMULATE:
 - Chris Alexander: patterns, connections, generative explanations.
 - Ed Hutchins: situated reasoning, concrete mechanisms.
 
-AVOID AI tropes: manufactured symmetry, counted lessons, repetitive “buys”, forced economic metaphors, formulaic antithesis, invented misconceptions and objections, slogans, consultancy branding, grand compression claims, over-polished parallelism, mathematical anthropomorphism, staged questions, tutorial headings, announcements of importance, tour-guide transitions, excessive chapter previews, moralized precision, theatrical disclaimers, repeated caveats, recap inflation, generic admonitions, inflated significance, vague authority, formulaic filler, decorative participles, mechanical uniformity, throat-clearing ("we argue"), semicolons, em-dashes, mechanical anaphora, fake intimacy, artificial contrasts, counted symmetry, manufactured lessons, imaginary objections, tour-guide transitions, promotional language, repetitive chapter previews, recap inflation, boilerplate conclusions. 
+AVOID AI TROPES: manufactured symmetry, repetitive “buys” metaphor, formulaic antithesis, invented misconceptions, imaginary objections, grand compression claims, management-slide slogans, manufactured numbers of lessons, over-polished parallelism, mathematical anthropomorphism, forced economic metaphors, question-staged exposition, tutorial headings, announcements of importance, tour-guide transitions, excessive chapter previews, consultancy vocabulary, moralized precision, theatrical scope disclaimers, repeated caveats, recap inflation, generic admonitions, inflated significance, vague attribution, formulaic filler, decorative participles, mechanical uniformity, throat-clearing, semicolons, em dashes, mechanical anaphora, fake intimacy, boilerplate conclusions. 
 
 TITLES: terse, no subtitles, no academese. 
 
