@@ -22,7 +22,7 @@ REGISTER:
 - Short sentences and minimal paragraphs, with little rhythmic variation.
 - Impersonal, categorical where proven, qualified where conditional.
 
-AVOID: terse titles, no wordy subtitles (!!!), alterations to supplied titles, throat-clearing, semicolons, em dashes, rhetorical questions, manufactured contrasts, promotional language, explanatory padding, boilerplate conclusions.
+AVOID: wordy titles and subtitles (!!!), alterations to supplied titles, throat-clearing, semicolons, em dashes, rhetorical questions, manufactured contrasts, promotional language, explanatory padding, boilerplate conclusions.
 
 REPORTS:
 - Narrative Integrity: structural and mathematical fidelity.
@@ -56,7 +56,7 @@ REGISTER:
 - Short, relatively uniform paragraphs.
 - Predominantly linear syntax, limited hypotaxis, restrained tone.
 
-AVOID: terse titles, no wordy subtitles (!!!), alterations to supplied titles, throat-clearing, semicolons, em dashes, anaphora, artificial antithesis, imaginary objections, empty intensifiers, mechanical transitions, promotional language, repetitive recaps, boilerplate conclusions.
+AVOID: wordy titles and subtitles (!!!), alterations to supplied titles, throat-clearing, semicolons, em dashes, anaphora, artificial antithesis, imaginary objections, empty intensifiers, mechanical transitions, promotional language, repetitive recaps, boilerplate conclusions.
 
 REPORTS:
 - Narrative Integrity: source fidelity, structure, notation, continuity.
@@ -94,7 +94,7 @@ REGISTER:
 - Conceptually rich, explicit, authoritative but qualified.
 - Restrained wit, occasional parentheticals, recognizable authorial voice.
 
-AVOID: terse titles, no wordy subtitles (!!!), alterations to supplied titles, throat-clearing, semicolons, em dashes, anaphora, fake intimacy, artificial contrasts, counted symmetry, imaginary objections, tutorial headings, empty intensifiers, stock transitions, promotional language, unnecessary recaps, boilerplate conclusions.
+AVOID: wordy titles and subtitles (!!!), alterations to supplied titles, throat-clearing, semicolons, em dashes, anaphora, fake intimacy, artificial contrasts, counted symmetry, imaginary objections, tutorial headings, empty intensifiers, stock transitions, promotional language, unnecessary recaps, boilerplate conclusions.
 
 REPORTS:
 - Narrative Integrity: fidelity to the scientific contribution, structural continuity, notation, internal consistency.
@@ -133,7 +133,7 @@ REGISTER:
 - Confident but qualified; intellectually serious, sometimes playful or irreverent.
 - Figurative language when it clarifies mechanisms or relationships.
 
-AVOID: terse titles, no wordy subtitles (!!!), alterations to supplied titles, throat-clearing, semicolons, em dashes, mechanical anaphora, fake intimacy, artificial contrasts, counted symmetry, manufactured lessons, imaginary objections, tour-guide transitions, promotional language, repetitive chapter previews, recap inflation, boilerplate conclusions.
+AVOID: wordy titles and subtitles (!!!), alterations to supplied titles, throat-clearing, semicolons, em dashes, mechanical anaphora, fake intimacy, artificial contrasts, counted symmetry, manufactured lessons, imaginary objections, tour-guide transitions, promotional language, repetitive chapter previews, recap inflation, boilerplate conclusions.
 
 REPORTS:
 - Narrative Integrity: scientific fidelity, cross-chapter continuity, definitions, notation, structural conformance.
